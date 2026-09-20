@@ -26,13 +26,21 @@
 
 ## 🛠 Tech stack
 
-<sub>아래 프로젝트에서 사용한 기술입니다.</sub>
+<sub>논문 연구와 프로젝트에서 사용한 기술입니다.</sub>
 
 **AI & Data**<br />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/torchvision-7C83B8?style=flat-square" alt="torchvision" />
+<img src="https://img.shields.io/badge/timm-879BB8?style=flat-square" alt="timm" />
 <img src="https://img.shields.io/badge/XGBoost-496A81?style=flat-square" alt="XGBoost" />
 <img src="https://img.shields.io/badge/LightGBM-507D5D?style=flat-square" alt="LightGBM" />
+
+**Vision Models · 연구에서 활용**<br />
+<img src="https://img.shields.io/badge/EfficientNet--B0-7C83B8?style=flat-square" alt="EfficientNet-B0" />
+<img src="https://img.shields.io/badge/ResNet50-8C9EC4?style=flat-square" alt="ResNet50" />
+<img src="https://img.shields.io/badge/MobileNetV2-8BAEA4?style=flat-square" alt="MobileNetV2" />
+<img src="https://img.shields.io/badge/ViT--Small-B396B5?style=flat-square" alt="ViT-Small" />
 
 **Mobile**<br />
 <img src="https://img.shields.io/badge/React_Native-273849?style=flat-square&amp;logo=react&amp;logoColor=white" alt="React Native" />
@@ -47,6 +55,21 @@
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/Firebase-DD861B?style=flat-square&amp;logo=firebase&amp;logoColor=white" alt="Firebase" />
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&amp;logo=sqlite&amp;logoColor=white" alt="SQLite" />
+
+<br />
+
+## 🔬 Research
+
+### 의류 소재 인식 · 멀티태스크 학습
+
+옷 한 장의 이미지에서 **혼방 소재와 의류 카테고리를 함께 이해하는 모델**을 연구했습니다.
+
+- **백본 비교** · EfficientNet-B0, ResNet50, MobileNetV2의 소재 다중 라벨 분류 성능 비교
+- **구조 설계** · EfficientNet-B0 기반 후반 분기형 멀티태스크 학습과 소재 분기 ECA 적용
+- **ViT 확장** · ViT-Small의 전체 공유·후반 분기 구조 및 Token-ECA 적용 비교
+- **실험·평가** · ECA·CBAM·CoordAtt·Triplet Attention과 삽입 위치 비교, 분류 성능·파라미터 수·CPU 추론 시간 평가
+
+`Computer Vision` `Multi-label Classification` `Multi-task Learning` `Channel Attention`
 
 <br />
 
