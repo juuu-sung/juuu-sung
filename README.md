@@ -86,6 +86,17 @@ AI 의류 분석과 착용·세탁 기록, 리폼과 나눔을 연결하는 지�
 
 `React Native` `Expo` `FastAPI` `PostgreSQL` `PyTorch` `YOLOv8`
 
+### 🧡 [CareMate](https://github.com/juuu-sung/CareMate)
+**시니어의 일상에, 든든한 돌봄을 더하다.**
+
+시니어와 보호자를 연결하는 AI 생활·안전 돌봄 앱을 개발하고 있습니다.
+
+- **음성 AI** · 고령자·방언 발화에 맞춘 Whisper 학습과 음성 대화
+- **일상 관리** · 복약 알림·기록, 일정 관리와 음성 기반 요청 처리
+- **보호자 연계** · 돌봄 현황 대시보드, 위치 확인과 SOS 알림
+
+`React Native` `Expo` `FastAPI` `PostgreSQL` `Whisper`
+
 ### 🛡️ [SafeWay](https://github.com/juuu-sung/SafeWay)
 **혼자 걷는 귀갓길에, 안심을 더하다.**
 
