@@ -9,7 +9,7 @@
 옷을 오래 입는 방법부터 안전한 귀갓길, 더 나은 환경까지.<br />
 생활 속 문제를 발견하고, 데이터와 앱으로 해결하는 과정을 기록합니다.
 
-<a href="https://github.com/juuu-sung/juuu-sung/blob/main/docs/portfolio.pdf"><img src="https://img.shields.io/badge/Portfolio-PDF%20%C2%B7%2022p-5073A7?style=flat-square" alt="포트폴리오 PDF · 22p" /></a>
+<a href="https://github.com/juuu-sung/juuu-sung/blob/main/docs/portfolio.pdf"><img src="https://img.shields.io/badge/Portfolio-PDF_22p-5073A7?style=flat-square" alt="포트폴리오 PDF · 22p" /></a>
 <a href="#-projects"><img src="https://img.shields.io/badge/Explore-My_Projects-7C83B8?style=flat-square" alt="Explore-My Projects" /></a>
 
 <br />
