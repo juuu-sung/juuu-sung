@@ -9,8 +9,11 @@
 옷을 오래 입는 방법부터 안전한 귀갓길, 더 나은 환경까지.<br />
 생활 속 문제를 발견하고, 데이터와 앱으로 해결하는 과정을 기록합니다.
 
-<a href="https://github.com/juuu-sung?tab=repositories"><img src="https://img.shields.io/badge/Projects-juuu--sung-5073A7?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Projects-juuu--sung" /></a>
+<a href="https://github.com/juuu-sung/juuu-sung/blob/main/docs/portfolio.pdf"><img src="https://img.shields.io/badge/Portfolio-PDF%20%C2%B7%2022p-5073A7?style=flat-square" alt="포트폴리오 PDF · 22p" /></a>
 <a href="#-projects"><img src="https://img.shields.io/badge/Explore-My_Projects-7C83B8?style=flat-square" alt="Explore-My Projects" /></a>
+
+<br />
+<sub>프로젝트별 기여, 설계 선택과 검증 결과를 정리했습니다.</sub>
 
 </div>
 
@@ -20,7 +23,7 @@
 
 - **AI · 데이터** — 이미지 인식과 예측 모델을 서비스에 연결하는 데 관심이 있습니다.
 - **앱 · 백엔드** — 모바일 화면부터 API와 데이터까지 이어지는 흐름을 만듭니다.
-- **함께 만드는 경험** — 전공종합설계 PBL **Re:wear 팀장**으로 프로젝트를 진행하고 있습니다.
+- **함께 만드는 경험** — 전공종합설계 PBL **Re:wear 팀장**으로 프로토타입 구현 후 고도화 중입니다.
 
 <br />
 
@@ -78,7 +81,7 @@
 ### 🌿 [Re:wear](https://github.com/juuu-sung/Re-wear-project)
 **내 옷을 이해하고, 오래 입고, 다시 순환시키다.**
 
-AI 의류 분석과 착용·세탁 기록, 리폼과 나눔을 연결하는 지속가능 옷 관리 플랫폼입니다.
+AI 의류 분석과 착용·세탁 기록, 리폼과 나눔을 연결하는 지속가능 옷 관리 플랫폼으로, 프로토타입 구현 후 고도화 중입니다.
 
 - **AI 분석** · 의류 소재·카테고리 분류, 케어라벨 인식과 관리 가이드
 - **모바일 서비스** · 디지털 옷장, 착용·세탁 캘린더, 커뮤니티
@@ -89,7 +92,7 @@ AI 의류 분석과 착용·세탁 기록, 리폼과 나눔을 연결하는 지�
 ### 🧡 [CareMate](https://github.com/juuu-sung/CareMate)
 **시니어의 일상에, 든든한 돌봄을 더하다.**
 
-시니어와 보호자를 연결하는 AI 생활·안전 돌봄 앱을 개발하고 있습니다.
+시니어와 보호자를 연결하는 AI 생활·안전 돌봄 앱으로, 프로토타입 구현 후 고도화 중입니다.
 
 - **음성 AI** · 고령자·방언 발화에 맞춘 Whisper 학습과 음성 대화
 - **일상 관리** · 복약 알림·기록, 일정 관리와 음성 기반 요청 처리
@@ -126,3 +129,4 @@ AI 의류 분석과 착용·세탁 기록, 리폼과 나눔을 연결하는 지�
 <div align="center">
 <sub>작은 불편을 발견하고, 쓸모 있는 서비스로 바꾸는 개발을 합니다.</sub>
 </div>
+
