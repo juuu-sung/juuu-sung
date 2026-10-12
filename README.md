@@ -9,11 +9,13 @@
 옷을 오래 입는 방법부터 안전한 귀갓길, 더 나은 환경까지.<br />
 생활 속 문제를 발견하고, 데이터와 앱으로 해결하는 과정을 기록합니다.
 
-<a href="https://github.com/juuu-sung/juuu-sung/blob/main/docs/portfolio.pdf"><strong>📄 포트폴리오 PDF · 22p</strong></a>
-<a href="#-projects"><img src="https://img.shields.io/badge/Explore-My_Projects-7C83B8?style=flat-square" alt="Explore-My Projects" /></a>
-
 <br />
-<sub>프로젝트별 기여, 설계 선택과 검증 결과를 정리했습니다.</sub>
+
+<a href="https://github.com/juuu-sung/juuu-sung/blob/main/docs/portfolio.pdf">
+  <img src="./assets/portfolio-card.svg" alt="포트폴리오 보기 — 다섯 프로젝트의 기여, 설계 선택과 검증 결과 · PDF 22페이지" width="800" />
+</a>
+
+<p><a href="#-projects">프로젝트 둘러보기 ↓</a></p>
 
 </div>
 
@@ -129,4 +131,3 @@ AI 의류 분석과 착용·세탁 기록, 리폼과 나눔을 연결하는 지�
 <div align="center">
 <sub>작은 불편을 발견하고, 쓸모 있는 서비스로 바꾸는 개발을 합니다.</sub>
 </div>
-
