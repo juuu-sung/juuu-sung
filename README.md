@@ -2,19 +2,20 @@
 
 <img src="./assets/header.svg" alt="JUSUNG HONG · AI / MOBILE / BACKEND" width="100%" />
 
-### 안녕하세요, 홍주성입니다 👋
-
-**AI를 일상에서 사용할 수 있는 서비스로 연결합니다.**
-
-옷을 오래 입는 방법부터 안전한 귀갓길, 더 나은 환경까지.<br />
-생활 속 문제를 발견하고, 데이터와 앱으로 해결하는 과정을 기록합니다.
-
 <br />
 
 <a href="https://github.com/juuu-sung/juuu-sung/blob/main/docs/portfolio.pdf">
   <img src="./assets/portfolio-card.svg" alt="포트폴리오 보기 — 다섯 프로젝트의 기여, 설계 선택과 검증 결과 · PDF 22페이지" width="800" />
 </a>
 
+<br />
+
+### 안녕하세요, 홍주성입니다 👋
+
+**AI를 일상에서 사용할 수 있는 서비스로 연결합니다.**
+
+옷을 오래 입는 방법부터 안전한 귀갓길, 더 나은 환경까지.<br />
+생활 속 문제를 발견하고, 데이터와 앱으로 해결하는 과정을 기록합니다.
 
 </div>
 
