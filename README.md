@@ -15,7 +15,6 @@
   <img src="./assets/portfolio-card.svg" alt="포트폴리오 보기 — 다섯 프로젝트의 기여, 설계 선택과 검증 결과 · PDF 22페이지" width="800" />
 </a>
 
-<p><a href="#-projects">프로젝트 둘러보기 ↓</a></p>
 
 </div>
 
