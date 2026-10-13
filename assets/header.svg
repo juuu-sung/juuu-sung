@@ -1,18 +1,56 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240" role="img" aria-labelledby="title desc">
-<title id="title">JUSUNG HONG — AI, Mobile and Backend</title>
-<desc id="desc">A soft blue developer profile banner with a small code window.</desc>
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#edf4ff"/><stop offset="1" stop-color="#f4f0ff"/></linearGradient></defs>
-<rect width="960" height="240" rx="20" fill="url(#bg)"/>
-<circle cx="916" cy="4" r="170" fill="#dbe7ff" opacity=".5"/>
-<circle cx="970" cy="256" r="176" fill="#e2dcfb" opacity=".6"/>
-<rect x="42" y="38" width="178" height="25" rx="12.5" fill="#dce8ff"/>
-<text x="131" y="55" text-anchor="middle" fill="#476ba8" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2">BUILD. LEARN. REPEAT.</text>
-<text x="42" y="122" fill="#203457" font-family="Arial,sans-serif" font-size="48" font-weight="700" letter-spacing="-1">JUSUNG HONG</text>
-<text x="44" y="157" fill="#536888" font-family="Arial,sans-serif" font-size="17">Turning ideas into useful experiences.</text>
-<text x="44" y="202" fill="#6480aa" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="3">AI / MOBILE / BACKEND</text>
-<rect x="690" y="47" width="222" height="145" rx="14" fill="#fff" fill-opacity=".85" stroke="#cbd8ed"/>
-<path d="M690 80H912" stroke="#dce4f2"/>
-<circle cx="709" cy="64" r="4" fill="#a0b5da"/><circle cx="723" cy="64" r="4" fill="#b9c8e4"/><circle cx="737" cy="64" r="4" fill="#d0d9ed"/>
-<path d="M745 112l-17 16 17 16m107-32 17 16-17 16m-44-38-15 45" fill="none" stroke="#6b88bd" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="758" y="170" width="86" height="4" rx="2" fill="#dce4f2"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="280" viewBox="0 0 960 280" role="img" aria-labelledby="title desc">
+<title id="title">JUSUNG HONG · AI, Mobile, Backend</title>
+<desc id="desc">모델을 만들고, 서비스로 연결합니다.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101d33"/><stop offset="1" stop-color="#243d60"/></linearGradient>
+<linearGradient id="card" x2="1" y2="1"><stop stop-color="#334d72"/><stop offset="1" stop-color="#223b5b"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#4d83c8" stop-opacity=".32"/><stop offset="1" stop-color="#4d83c8" stop-opacity="0"/></radialGradient>
+<clipPath id="clip"><rect width="960" height="280" rx="24"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="960" height="280" fill="url(#bg)"/>
+<circle cx="800" cy="90" r="245" fill="url(#glow)"/>
+<circle cx="818" cy="137" r="207" fill="none" stroke="#aac8ee" stroke-opacity=".07"/>
+<circle cx="818" cy="137" r="158" fill="none" stroke="#aac8ee" stroke-opacity=".09"/>
+<g font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Malgun Gothic', Arial, sans-serif">
+<rect x="42" y="35" width="211" height="28" rx="14" fill="#223954" stroke="#375372"/>
+<circle cx="57" cy="49" r="3.5" fill="#8ad8d0"/>
+<text x="70" y="53" fill="#c9d9ed" font-family="Arial,sans-serif" font-size="10.5" font-weight="700" letter-spacing="1.8">AI · MOBILE · BACKEND</text>
+<text x="40" y="127" fill="#f7faff" font-family="Arial,sans-serif" font-size="53" font-weight="700" letter-spacing="-1.6">JUSUNG HONG<tspan fill="#93c8eb">.</tspan></text>
+<text x="43" y="171" fill="#d6e3f5" font-size="23" font-weight="500" letter-spacing="-.4">모델을 만들고, 서비스로 연결합니다.</text>
+<path d="M44 204h38" stroke="#88cec8" stroke-width="2"/>
+<text x="95" y="209" fill="#9fb5d1" font-family="Arial,sans-serif" font-size="13" letter-spacing=".3">Ideas into everyday experiences.</text>
+<text x="44" y="247" fill="#839cbd" font-family="Arial,sans-serif" font-size="10" letter-spacing="2.1">BUILD WITH PURPOSE. LEARN BY DOING.</text>
+</g>
+<g transform="translate(625 44)">
+<rect x="6" y="8" width="235" height="163" rx="17" fill="#0e1d32" opacity=".3"/>
+<rect width="235" height="163" rx="17" fill="url(#card)" stroke="#6b8aac" stroke-opacity=".45"/>
+<path d="M0 35h235" stroke="#617fa1" stroke-opacity=".3"/>
+<circle cx="18" cy="18" r="3" fill="#90a9c9"/><circle cx="29" cy="18" r="3" fill="#6583a7"/><circle cx="40" cy="18" r="3" fill="#486888"/>
+<text x="217" y="21" text-anchor="end" font-family="Arial,sans-serif" font-size="8" fill="#b1c9e6" letter-spacing="1.3">MODEL → SERVICE</text>
+<path d="M22 126H150M22 95H150M22 65H150" stroke="#87a6ca" stroke-opacity=".12"/>
+<rect x="27" y="107" width="14" height="20" rx="4" fill="#5e84b2"/>
+<rect x="51" y="89" width="14" height="38" rx="4" fill="#6c98c6"/>
+<rect x="75" y="76" width="14" height="51" rx="4" fill="#87b5dc"/>
+<rect x="99" y="61" width="14" height="66" rx="4" fill="#a4d2e9"/>
+<path d="m34 92 24-20 24 4 24-26" fill="none" stroke="#8ad8d0" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="106" cy="50" r="4" fill="#8ad8d0"/>
+<rect x="22" y="143" width="51" height="3" rx="1.5" fill="#7694b6" opacity=".65"/>
+<rect x="80" y="143" width="30" height="3" rx="1.5" fill="#7694b6" opacity=".3"/>
+<g transform="translate(160 62)">
+<rect x="5" y="6" width="112" height="148" rx="18" fill="#0b1829" opacity=".25"/>
+<rect width="112" height="148" rx="18" fill="#f1f6fc" stroke="#bed0e5"/>
+<rect x="37" y="10" width="38" height="4" rx="2" fill="#c8d7e9"/>
+<rect x="14" y="29" width="84" height="46" rx="9" fill="#dbe9f8"/>
+<rect x="25" y="40" width="26" height="4" rx="2" fill="#7197c2"/>
+<rect x="25" y="50" width="47" height="4" rx="2" fill="#9ab7d8"/>
+<rect x="25" y="60" width="35" height="4" rx="2" fill="#b8cce4"/>
+<circle cx="26" cy="94" r="10" fill="#d5ebe8"/>
+<path d="m22 94 3 3 5-6" fill="none" stroke="#53867f" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="44" y="89" width="47" height="4" rx="2" fill="#9bb3cf"/>
+<rect x="44" y="98" width="30" height="3" rx="1.5" fill="#cfdae8"/>
+<rect x="14" y="117" width="84" height="17" rx="6" fill="#345b87"/>
+</g>
+</g>
+</g>
 </svg>
