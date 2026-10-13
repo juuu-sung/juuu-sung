@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="JUSUNG HONG · AI / MOBILE / BACKEND" width="100%" />
+<p><img src="./assets/header.svg?v=2" alt="JUSUNG HONG — 모델을 만들고, 서비스로 연결합니다." width="100%" /></p>
 
-<br />
-
+<p>
 <a href="https://github.com/juuu-sung/juuu-sung/blob/main/docs/portfolio.pdf">
-  <img src="./assets/portfolio-card.svg" alt="포트폴리오 보기 — 다섯 프로젝트의 기여, 설계 선택과 검증 결과 · PDF 22페이지" width="800" />
+  <img src="./assets/portfolio-card.svg?v=2" alt="포트폴리오 보기 — 다섯 프로젝트의 기여, 설계 선택과 검증 결과 · PDF 22페이지" width="100%" />
 </a>
+</p>
 
 <br />
 
