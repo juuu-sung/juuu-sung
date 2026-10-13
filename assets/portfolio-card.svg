@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="142" viewBox="0 0 960 142" role="img" aria-labelledby="title desc">
 <title id="title">포트폴리오 보기 · PDF 22페이지</title>
 <desc id="desc">다섯 프로젝트의 기여, 설계 선택과 검증 결과를 담은 포트폴리오.</desc>
-<rect x="1" y="1" width="958" height="140" rx="20" fill="#f7f9fc" stroke="#dce5ef"/>
+<rect x="1" y="1" width="958" height="140" rx="20" fill="#f8fbff" stroke="#dce5ef"/>
 <rect x="31" y="39" width="62" height="64" rx="15" fill="#e8eff8"/>
 <path d="M51 53h15l10 10v25H51z" fill="#fff" stroke="#6888af" stroke-width="1.7" stroke-linejoin="round"/>
 <path d="M66 53v11h10M57 72h13M57 78h13M57 84h8" fill="none" stroke="#6888af" stroke-width="1.6" stroke-linecap="round"/>
@@ -9,9 +9,9 @@
 <text x="118" y="34" fill="#7288a3" font-family="Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="2.2">SELECTED WORK</text>
 <text x="116" y="73" fill="#203650" font-size="28" font-weight="700" letter-spacing="-.8">포트폴리오</text>
 <text x="118" y="103" fill="#61748b" font-size="15">다섯 프로젝트의 기여 · 설계 선택 · 검증 결과</text>
-<rect x="707" y="40" width="218" height="49" rx="12" fill="#233d5e"/>
+<rect x="707" y="40" width="218" height="49" rx="12" fill="#5579a7"/>
 <text x="800" y="70" text-anchor="middle" fill="#f7faff" font-size="15" font-weight="600">포트폴리오 보기</text>
-<path d="M887 64h14m-5-5 5 5-5 5" fill="none" stroke="#a6d5de" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M887 64h14m-5-5 5 5-5 5" fill="none" stroke="#e2efff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
 <text x="816" y="111" text-anchor="middle" fill="#8292a7" font-family="Arial,sans-serif" font-size="10" letter-spacing="1.6">PDF · 22 PAGES</text>
 </g>
 </svg>
