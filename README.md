@@ -80,6 +80,19 @@
 
 ## 🚀 Projects
 
+### 🔎 [DefectOps — 제조 이미지 이상탐지·검사 검토 시스템](https://github.com/juuu-sung/defectops-public-candidate)
+**AI가 찾은 이상 징후를, 사람이 확인하고 근거를 남기는 검사 흐름으로.**
+
+정상 제품 이미지로 이상을 찾는 모델의 실험부터 검사 API, 작업자 검토와 승인 이력까지 구현한 ML 엔지니어링 프로젝트입니다. 공개 데이터 기반 연구·로컬 프로토타입입니다.
+
+- **모델 비교·검증** · 동일 Transistor 시험 자료에서 PaDiM 구성 **60.0%**, PatchCore 구성 **92.5%** 불량 검출률 비교(3-seed 평균·탐색 평가), 오경보와 실패 사례 분석
+- **GPU 실행 최적화** · 약 **314만 개 정상 특징**을 **8GB GPU 환경**에서 분할 처리하고, 장시간 작업의 중간 저장·재개 구현
+- **검사·검토 연결** · API 결과 자동 등록, 검토 수정 이력, 작업 절차서(SOP) 근거·승인·모의 티켓 추적
+
+`Python` `PyTorch` `FastAPI` `Streamlit` `SQLite` `GitHub Actions`
+
+[실험 결과와 적용 범위](https://github.com/juuu-sung/defectops-public-candidate#대표-결과) · [23초 합성 시연](https://github.com/juuu-sung/defectops-public-candidate#23초-합성-시연)
+
 ### 🌿 [Re:wear](https://github.com/juuu-sung/Re-wear-project)
 **내 옷을 이해하고, 오래 입고, 다시 순환시키다.**
 
